@@ -9,7 +9,7 @@ Agrupamentos por gênero e categoria de produto utilizando groupby().
 Foram usadas as tecnologias: Python, Pandas e VSCODE.
 
 INSTRUÇÕES: 
-1. Baixe o arquivo Varejo.csv (Kaggle: base-varejo, de namespaiva)
+1. Baixe o arquivo Varejo.csv 
 2. Coloque o arquivo Varejo.csv na mesma pasta deste script
 3. Rode este script no VSCode ou no Google Colab
  
